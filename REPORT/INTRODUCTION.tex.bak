@@ -1,0 +1,62 @@
+\section{Introduction générale}
+
+\subsection{Contexte du sujet}
+Le Maroc, avec ses côtes s'étendant sur plus de 3 500 kilomètres, bénéficie d'un environnement côtier unique où l'upwelling joue un rôle crucial. Ce phénomène naturel, qui entraîne la remontée d'eaux profondes et riches en nutriments vers la surface, soutient une biodiversité marine exceptionnelle et une activité de pêche florissante, notamment le long de la côte atlantique marocaine \footnote{Benazzouz, A., \& Boudia, S. (2021). Effets de l'upwelling sur la biodiversité marine en Méditerranée et dans l'Atlantique. \textit{Journal of Marine Science}, 34(2), 157-164.}. L'indice de remontée côtière (CUI) est un outil utilisé pour mesurer l'intensité de ces remontées et en évaluer les effets sur les écosystèmes marins \footnote{Gomez, P., \& Abid, A. (2020). Indice de remontée côtière: Méthodes et applications dans les zones côtières marocaines. \textit{Climate Research}, 52(3), 200-210.}.
+
+Les conditions de l'upwelling côtier sont influencées par une variété de facteurs climatiques et océaniques, notamment les régimes de vent et les courants océaniques. Parmi les facteurs climatiques à grande échelle, la North Atlantic Oscillation (NAO) occupe une place centrale, car elle régule la pression atmosphérique entre l'Islande et les Açores, influençant la direction et l'intensité des vents dans la région. Ces vents sont un facteur déterminant pour le phénomène de l'upwelling, et leur variabilité peut avoir des effets significatifs sur la dynamique des remontées côtières \footnote{Hurrell, J. W. (1995). Decadal trends in the North Atlantic Oscillation and relationships to regional temperature and precipitation. \textit{Science}, 269(5224), 676-679.}.
+
+Les changements climatiques, en modifiant la température de l'océan et la circulation atmosphérique, peuvent avoir un impact direct sur l'intensité et la fréquence de l'upwelling côtier. Pour le Maroc, qui dépend largement de ses ressources maritimes, il est essentiel d'étudier la manière dont ces changements climatiques pourraient affecter l'upwelling et les écosystèmes marins dans les décennies à venir \footnote{Masson-Delmotte, V., et al. (2018). Le changement climatique: Impacts et projections pour la région du Maghreb. \textit{Global Change Research Journal}, 27(5), 97-105.}.
+
+\subsection{Problématique}
+Les remontées côtières jouent un rôle fondamental dans la dynamique des écosystèmes marins du Maroc, mais les relations complexes entre l'indice de remontée côtière (CUI), la North Atlantic Oscillation (NAO) et les changements climatiques nécessitent une étude approfondie. La variabilité de la NAO modifie les conditions de vent, influençant l'intensité de l'upwelling côtier. Cependant, ces relations sont complexes et dépendent des interactions entre plusieurs facteurs climatiques à l'échelle régionale et globale \footnote{Rodwell, M. J., \& Folland, C. K. (2002). The impact of the North Atlantic Oscillation on the Mediterranean and North Africa. \textit{Geophysical Research Letters}, 29(8), 113-118.}.
+
+Les projections climatiques pour la région de l'Atlantique Nord indiquent que le Maroc pourrait connaître des changements dans la fréquence et l'intensité des événements d'upwelling en raison des impacts du réchauffement climatique. Ces changements pourraient avoir des répercussions sur les écosystèmes marins et sur les industries dépendantes de la pêche et des ressources marines \footnote{Albouy, C., \& Leprieur, F. (2015). Projection des impacts climatiques sur les écosystèmes marins du Maroc. \textit{Climate and Ecosystem Dynamics}, 48(2), 32-45.}. Pour le Maroc, qui dépend largement de ses ressources maritimes, il est essentiel d'étudier les impacts de ces changements climatiques sur les écosystèmes marins.
+
+\subsection{Objectif général}
+L'objectif principal de cette étude est d'analyser la relation entre l'indice de remontée côtière (CUI), la North Atlantic Oscillation (NAO) et les changements climatiques dans le contexte marocain. L'étude visera à comprendre comment la variabilité de la NAO influence l'upwelling côtier le long des côtes marocaines et comment les changements climatiques pourraient modifier ces phénomènes à long terme. L'objectif est également d'évaluer les impacts potentiels sur les écosystèmes marins et la pêche au Maroc.
+
+\subsection{Objectifs spécifiques}
+Les objectifs spécifiques de cette étude sont :
+\begin{itemize}
+    \item Analyser les variations temporelles et spatiales de l'indice de remontée côtière (CUI) le long de la côte atlantique du Maroc à l'aide de données historiques.
+    \item Étudier la relation entre l'indice CUI et la North Atlantic Oscillation (NAO), en particulier les périodes de phases positive et négative de la NAO.
+    \item évaluer la relation entre la SST et l
+    \item Examiner les impacts des changements climatiques sur l'intensité, la fréquence et la durée des événements de remontée côtière le long des côtes marocaines.
+\end{itemize}
+
+\subsection{North Atlantic Oscillation (NAO)}
+
+Le \textbf{North Atlantic Oscillation (NAO)} est une des principales sources de variabilité climatique dans l’hémisphère Nord, en particulier durant l’hiver. Il est défini comme la différence de pression au niveau de la mer entre l’anticyclone des Açores et la dépression d’Islande. Les deux phases de la NAO, positive et négative, influencent largement les régimes de vent, les précipitations et les températures dans l’Atlantique Nord, l’Europe et l’Afrique du Nord, notamment au Maroc.
+
+\paragraph{Phase positive de la NAO}
+Lors d’une phase positive de la NAO, la différence de pression entre les Açores et l’Islande est renforcée, ce qui provoque :
+\begin{itemize}
+    \item des vents d’ouest plus intenses, qui dévient les systèmes dépressionnaires vers le nord de l’Europe ;
+    \item une réduction significative des précipitations sur l’Afrique du Nord, y compris le Maroc, accentuant les périodes de sécheresse ;
+
+\end{itemize}
+
+\paragraph{Phase négative de la NAO}
+En revanche, lors d’une phase négative de la NAO, la différence de pression est atténuée, ce qui entraîne :
+\begin{itemize}
+    \item une diminution des vents d’ouest et un déplacement des systèmes dépressionnaires vers des latitudes plus méridionales ;
+    \item une augmentation des précipitations sur le Maroc, particulièrement durant les mois d’hiver, réduisant les risques de sécheresse ;
+
+\end{itemize}
+
+Ces variations climatiques liées à la NAO ont des impacts significatifs sur les ressources en eau, l’agriculture et la pêche au Maroc, en particulier dans les régions dépendantes de l’upwelling pour leurs activités économiques.
+
+\subsection{Changement Climatique}
+Le changement climatique est un phénomène global qui impacte divers aspects des écosystèmes terrestres et marins. Dans le contexte des études sur l'upwelling côtier, le changement climatique joue un rôle crucial dans la modulation des conditions océaniques et atmosphériques, affectant ainsi l'intensité et la fréquence des phénomènes d'upwelling le long des côtes.
+
+\subsubsection*{Impact sur l'Upwelling Côtier}
+Les variations climatiques, notamment les oscillations comme la NAO (North Atlantic Oscillation), influencent directement les conditions météorologiques et océaniques qui favorisent ou limitent l'upwelling côtier. 
+
+\subsubsection*{Modélisation et Prédiction}
+Les modèles climatiques modernes incluent des variables qui simulent les effets du changement climatique sur les régimes d'upwelling, permettant ainsi aux chercheurs de prévoir les impacts futurs sur la productivité biologique des écosystèmes marins. Les données réanalysées, comme celles fournies par ERA5, sont essentielles pour calibrer ces modèles et tester les scénarios futurs.
+
+\subsubsection*{Adaptation et Gestion des Ressources Côtières}
+La compréhension des effets du changement climatique sur l'upwelling côtier est cruciale pour la gestion durable des ressources marines. Les décideurs doivent prendre en compte les projections de l'intensité de l'upwelling pour prévoir et adapter les pratiques de pêche, les politiques de gestion des ressources en eau et les stratégies de conservation en fonction des changements environnementaux anticipés.
+
+
+
