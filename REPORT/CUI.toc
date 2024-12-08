@@ -1,0 +1,24 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Introduction générale}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Contexte du sujet}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Problématique}{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Objectif général}{6}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Objectifs spécifiques}{6}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}North Atlantic Oscillation (NAO)}{6}{subsection.1.5}%
+\contentsline {paragraph}{Phase positive de la NAO}{6}{section*.2}%
+\contentsline {paragraph}{Phase négative de la NAO}{6}{section*.3}%
+\contentsline {subsection}{\numberline {1.6}Changement Climatique}{6}{subsection.1.6}%
+\contentsline {section}{\numberline {2}Matériels et Méthodes}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Instruments scientifiques utilisés (logiciels, programmes, modèles, etc.)}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Collecte des données}{9}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Délimitation de la zone d'étude}{10}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Calcul de l'indice d'upwelling de Bakun (CUI)}{10}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Description de la fonction Python pour le calcul du CUI}{10}{subsubsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.5}Importance de l'indice CUI}{13}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Sélection des points significatifs}{13}{subsubsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.6}Synthèse des outils et flux de travail}{13}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Résultats et Discussions}{13}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Évaluation de l'impact de la NAO sur l'upwelling}{13}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Analyse Statistique}{13}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Impact de la phase de la NAO sur l'upwelling}{16}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Analyse de la tendance de l'upwelling}{18}{subsubsection.3.1.3}%

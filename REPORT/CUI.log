@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.21)  7 DEC 2024 23:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.21)  8 DEC 2024 11:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -23,21 +23,48 @@ File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
 )
+(/home/mohamed/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/home/mohamed/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/home/mohamed/.miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/home/mohamed/.miktex/texmfs/install/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count270
+\Gm@cntv=\count271
+\c@Gm@tempcnt=\count272
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+
+(/home/mohamed/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
 (/home/mohamed/.miktex/texmfs/install/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
-\inpenc@prehook=\toks17
-\inpenc@posthook=\toks18
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
 )
 (/home/mohamed/.miktex/texmfs/install/tex/generic/babel/babel.sty
 Package: babel 2024/11/08 v24.13 The multilingual framework for pdfLaTeX, LuaLa
 TeX and XeLaTeX
-\babel@savecnt=\count270
-\U@D=\dimen142
+\babel@savecnt=\count273
+\U@D=\dimen150
 \l@unhyphenated=\language1
 
 (/home/mohamed/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count271
+\bbl@dirlevel=\count274
 
 *************************************
 * Local config file bblopts.cfg used
@@ -57,27 +84,27 @@ Package babel Warning: No hyphenation patterns were preloaded for
 (babel)                preloaded for \language=nohyphenation instead on input l
 ine 87.
 
-\FB@stdchar=\count272
+\FB@stdchar=\count275
 Package babel Info: Making : an active character on input line 421.
 Package babel Info: Making ; an active character on input line 422.
 Package babel Info: Making ! an active character on input line 423.
 Package babel Info: Making ? an active character on input line 424.
-\FBguill@level=\count273
-\FBold@everypar=\toks19
-\FB@Mht=\dimen143
-\mc@charclass=\count274
-\mc@charfam=\count275
-\mc@charslot=\count276
-\std@mcc=\count277
-\dec@mcc=\count278
-\FB@parskip=\dimen144
-\listindentFB=\dimen145
-\descindentFB=\dimen146
-\labelindentFB=\dimen147
-\labelwidthFB=\dimen148
-\leftmarginFB=\dimen149
-\parindentFFN=\dimen150
-\FBfnindent=\dimen151
+\FBguill@level=\count276
+\FBold@everypar=\toks21
+\FB@Mht=\dimen151
+\mc@charclass=\count277
+\mc@charfam=\count278
+\mc@charslot=\count279
+\std@mcc=\count280
+\dec@mcc=\count281
+\FB@parskip=\dimen152
+\listindentFB=\dimen153
+\descindentFB=\dimen154
+\labelindentFB=\dimen155
+\labelwidthFB=\dimen156
+\leftmarginFB=\dimen157
+\parindentFFN=\dimen158
+\FBfnindent=\dimen159
 ))
 (/home/mohamed/.miktex/texmfs/install/tex/generic/babel/locale/fr/babel-french.
 tex
@@ -91,10 +118,6 @@ Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
  (/home/mohamed/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/home/mohamed/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks20
-)
 (/home/mohamed/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
 
@@ -109,17 +132,17 @@ Package graphics Info: Driver file: pdftex.def on input line 106.
 (/home/mohamed/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen152
-\Gin@req@width=\dimen153
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
 )
 (/home/mohamed/.miktex/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty
 (/home/mohamed/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty
 (/home/mohamed/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.
 tex
-\pgfutil@everybye=\toks21
-\pgfutil@tempdima=\dimen154
-\pgfutil@tempdimb=\dimen155
+\pgfutil@everybye=\toks22
+\pgfutil@tempdima=\dimen162
+\pgfutil@tempdimb=\dimen163
 )
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.d
 ef
@@ -139,33 +162,33 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.te
 x
-\pgfkeys@pathtoks=\toks22
-\pgfkeys@temptoks=\toks23
+\pgfkeys@pathtoks=\toks23
+\pgfkeys@temptoks=\toks24
 
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeyslibraryf
 iltered.code.tex
-\pgfkeys@tmptoks=\toks24
+\pgfkeys@tmptoks=\toks25
 ))
-\pgf@x=\dimen156
-\pgf@y=\dimen157
-\pgf@xa=\dimen158
-\pgf@ya=\dimen159
-\pgf@xb=\dimen160
-\pgf@yb=\dimen161
-\pgf@xc=\dimen162
-\pgf@yc=\dimen163
-\pgf@xd=\dimen164
-\pgf@yd=\dimen165
+\pgf@x=\dimen164
+\pgf@y=\dimen165
+\pgf@xa=\dimen166
+\pgf@ya=\dimen167
+\pgf@xb=\dimen168
+\pgf@yb=\dimen169
+\pgf@xc=\dimen170
+\pgf@yc=\dimen171
+\pgf@xd=\dimen172
+\pgf@yd=\dimen173
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count279
-\c@pgf@countb=\count280
-\c@pgf@countc=\count281
-\c@pgf@countd=\count282
-\t@pgf@toka=\toks25
-\t@pgf@tokb=\toks26
-\t@pgf@tokc=\toks27
-\pgf@sys@id@count=\count283
+\c@pgf@counta=\count282
+\c@pgf@countb=\count283
+\c@pgf@countc=\count284
+\c@pgf@countd=\count285
+\t@pgf@toka=\toks26
+\t@pgf@tokb=\toks27
+\t@pgf@tokc=\toks28
+\pgf@sys@id@count=\count286
 
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
@@ -183,8 +206,8 @@ File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpat
 h.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count284
-\pgfsyssoftpath@bigbuffer@items=\count285
+\pgfsyssoftpath@smallbuffer@items=\count287
+\pgfsyssoftpath@bigbuffer@items=\count288
 )
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotoco
 l.code.tex
@@ -216,12 +239,12 @@ Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
 )
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.t
 ex
-\pgfmath@dimen=\dimen166
-\pgfmath@count=\count286
+\pgfmath@dimen=\dimen174
+\pgfmath@count=\count289
 \pgfmath@box=\box53
-\pgfmath@toks=\toks28
-\pgfmath@stack@operand=\toks29
-\pgfmath@stack@operation=\toks30
+\pgfmath@toks=\toks29
+\pgfmath@stack@operand=\toks30
+\pgfmath@stack@operation=\toks31
 )
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.cod
 e.tex)
@@ -245,37 +268,37 @@ egerarithmetics.code.tex)
 )
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.te
 x
-\c@pgfmathroundto@lastzeros=\count287
+\c@pgfmathroundto@lastzeros=\count290
 )) (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/math/pgfint.code.tex)
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepoints.
 code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen167
-\pgf@picmaxx=\dimen168
-\pgf@picminy=\dimen169
-\pgf@picmaxy=\dimen170
-\pgf@pathminx=\dimen171
-\pgf@pathmaxx=\dimen172
-\pgf@pathminy=\dimen173
-\pgf@pathmaxy=\dimen174
-\pgf@xx=\dimen175
-\pgf@xy=\dimen176
-\pgf@yx=\dimen177
-\pgf@yy=\dimen178
-\pgf@zx=\dimen179
-\pgf@zy=\dimen180
+\pgf@picminx=\dimen175
+\pgf@picmaxx=\dimen176
+\pgf@picminy=\dimen177
+\pgf@picmaxy=\dimen178
+\pgf@pathminx=\dimen179
+\pgf@pathmaxx=\dimen180
+\pgf@pathminy=\dimen181
+\pgf@pathmaxy=\dimen182
+\pgf@xx=\dimen183
+\pgf@xy=\dimen184
+\pgf@yx=\dimen185
+\pgf@yy=\dimen186
+\pgf@zx=\dimen187
+\pgf@zy=\dimen188
 )
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathcon
 struct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen181
-\pgf@path@lasty=\dimen182
+\pgf@path@lastx=\dimen189
+\pgf@path@lasty=\dimen190
 )
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathusa
 ge.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen183
-\pgf@shorten@start@additional=\dimen184
+\pgf@shorten@end@additional=\dimen191
+\pgf@shorten@start@additional=\dimen192
 )
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorescopes.
 code.tex
@@ -283,19 +306,19 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box54
 \pgf@hbox=\box55
 \pgf@layerbox@main=\box56
-\pgf@picture@serial@count=\count288
+\pgf@picture@serial@count=\count291
 )
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoregraphic
 state.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen185
+\pgflinewidth=\dimen193
 )
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransfo
 rmations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen186
-\pgf@pt@y=\dimen187
-\pgf@pt@temp=\dimen188
+\pgf@pt@x=\dimen194
+\pgf@pt@y=\dimen195
+\pgf@pt@temp=\dimen196
 )
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorequick.c
 ode.tex
@@ -312,14 +335,14 @@ File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorearrows.
 code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen189
+\pgfarrowsep=\dimen197
 )
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreshade.c
 ode.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen190
-\pgf@sys@shading@range@num=\count289
-\pgf@shadingcount=\count290
+\pgf@max=\dimen198
+\pgf@sys@shading@range@num=\count292
+\pgf@shadingcount=\count293
 )
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreimage.c
 ode.tex
@@ -358,8 +381,8 @@ File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/home/mohamed/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-versi
 on-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen191
-\pgf@nodesepend=\dimen192
+\pgf@nodesepstart=\dimen199
+\pgf@nodesepend=\dimen256
 )
 (/home/mohamed/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-versi
 on-1-18.sty
@@ -372,10 +395,10 @@ x)) (/home/mohamed/.miktex/texmfs/install/tex/latex/pgf/math/pgfmath.sty
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex))
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen193
-\pgffor@skip=\dimen194
-\pgffor@stack=\toks31
-\pgffor@toks=\toks32
+\pgffor@iter=\dimen257
+\pgffor@skip=\dimen258
+\pgffor@stack=\toks32
+\pgffor@toks=\toks33
 ))
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.c
 ode.tex
@@ -384,34 +407,34 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryploth
 andlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count291
-\pgfplotmarksize=\dimen195
+\pgf@plot@mark@count=\count294
+\pgfplotmarksize=\dimen259
 )
-\tikz@lastx=\dimen196
-\tikz@lasty=\dimen197
-\tikz@lastxsaved=\dimen198
-\tikz@lastysaved=\dimen199
-\tikz@lastmovetox=\dimen256
-\tikz@lastmovetoy=\dimen257
-\tikzleveldistance=\dimen258
-\tikzsiblingdistance=\dimen259
+\tikz@lastx=\dimen260
+\tikz@lasty=\dimen261
+\tikz@lastxsaved=\dimen262
+\tikz@lastysaved=\dimen263
+\tikz@lastmovetox=\dimen264
+\tikz@lastmovetoy=\dimen265
+\tikzleveldistance=\dimen266
+\tikzsiblingdistance=\dimen267
 \tikz@figbox=\box59
 \tikz@figbox@bg=\box60
 \tikz@tempbox=\box61
 \tikz@tempbox@bg=\box62
-\tikztreelevel=\count292
-\tikznumberofchildren=\count293
-\tikznumberofcurrentchild=\count294
-\tikz@fig@count=\count295
+\tikztreelevel=\count295
+\tikznumberofchildren=\count296
+\tikznumberofcurrentchild=\count297
+\tikz@fig@count=\count298
 
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmodulematrix.c
 ode.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count296
-\pgfmatrixcurrentcolumn=\count297
-\pgf@matrix@numberofcolumns=\count298
+\pgfmatrixcurrentrow=\count299
+\pgfmatrixcurrentcolumn=\count300
+\pgf@matrix@numberofcolumns=\count301
 )
-\tikz@expandcount=\count299
+\tikz@expandcount=\count302
 
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librar
 ies/tikzlibrarytopaths.code.tex
@@ -420,12 +443,12 @@ File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgfplots/pgfplots.code.tex
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgfplots/pgfplotscore.code.te
 x
-\t@pgfplots@toka=\toks33
-\t@pgfplots@tokb=\toks34
-\t@pgfplots@tokc=\toks35
-\pgfplots@tmpa=\dimen260
-\c@pgfplots@coordindex=\count300
-\c@pgfplots@scanlineindex=\count301
+\t@pgfplots@toka=\toks34
+\t@pgfplots@tokb=\toks35
+\t@pgfplots@tokc=\toks36
+\pgfplots@tmpa=\dimen268
+\c@pgfplots@coordindex=\count303
+\c@pgfplots@scanlineindex=\count304
 
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgfplots/sys/pgfplotssysgener
 ic.code.tex))
@@ -436,9 +459,9 @@ otsoldpgfsupp_loader.code.tex
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryfpu.c
 ode.tex)
 Package pgfplots: loading complementary utilities for your pgf version...
-\t@pgf@toka=\toks36
-\t@pgf@tokb=\toks37
-\t@pgf@tokc=\toks38
+\t@pgf@toka=\toks37
+\t@pgf@tokb=\toks38
+\t@pgf@tokc=\toks39
 
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgfplots/oldpgfcompatib/pgfpl
 otsoldpgfsupp_pgfutil-common-lists.tex))
@@ -450,14 +473,14 @@ tsliststructure.code.tex)
 tsliststructureext.code.tex)
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgfplots/liststructure/pgfplo
 tsarray.code.tex
-\c@pgfplotsarray@tmp=\count302
+\c@pgfplotsarray@tmp=\count305
 )
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgfplots/liststructure/pgfplo
 tsmatrix.code.tex)
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgfplots/numtable/pgfplotstab
 leshared.code.tex
-\c@pgfplotstable@counta=\count303
-\t@pgfplotstable@a=\toks39
+\c@pgfplotstable@counta=\count306
+\t@pgfplotstable@a=\toks40
 )
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgfplots/liststructure/pgfplo
 tsdeque.code.tex)
@@ -469,7 +492,7 @@ data.code.tex))
 rb.code.tex)
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgfplots/libs/pgflibrarypgfpl
 ots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count304
+\c@pgfplotslibrarysurf@no=\count307
 
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgfplots/sys/pgflibrarypgfplo
 ts.surfshading.pgfsys-pdftex.def)))
@@ -501,14 +524,14 @@ tex)
 ies/tikzlibrarydecorations.code.tex
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduledecorati
 ons.code.tex
-\pgfdecoratedcompleteddistance=\dimen261
-\pgfdecoratedremainingdistance=\dimen262
-\pgfdecoratedinputsegmentcompleteddistance=\dimen263
-\pgfdecoratedinputsegmentremainingdistance=\dimen264
-\pgf@decorate@distancetomove=\dimen265
-\pgf@decorate@repeatstate=\count305
-\pgfdecorationsegmentamplitude=\dimen266
-\pgfdecorationsegmentlength=\dimen267
+\pgfdecoratedcompleteddistance=\dimen269
+\pgfdecoratedremainingdistance=\dimen270
+\pgfdecoratedinputsegmentcompleteddistance=\dimen271
+\pgfdecoratedinputsegmentremainingdistance=\dimen272
+\pgf@decorate@distancetomove=\dimen273
+\pgf@decorate@repeatstate=\count308
+\pgfdecorationsegmentamplitude=\dimen274
+\pgfdecorationsegmentlength=\dimen275
 )
 \tikz@lib@dec@box=\box63
 )
@@ -522,13 +545,13 @@ ies/tikzlibrarydecorations.pathreplacing.code.tex
 librarydecorations.pathreplacing.code.tex))
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgfplots/libs/tikzlibrarypgfp
 lots.contourlua.code.tex)
-\pgfplots@numplots=\count306
-\pgfplots@xmin@reg=\dimen268
-\pgfplots@xmax@reg=\dimen269
-\pgfplots@ymin@reg=\dimen270
-\pgfplots@ymax@reg=\dimen271
-\pgfplots@zmin@reg=\dimen272
-\pgfplots@zmax@reg=\dimen273
+\pgfplots@numplots=\count309
+\pgfplots@xmin@reg=\dimen276
+\pgfplots@xmax@reg=\dimen277
+\pgfplots@ymin@reg=\dimen278
+\pgfplots@ymax@reg=\dimen279
+\pgfplots@zmin@reg=\dimen280
+\pgfplots@zmax@reg=\dimen281
 )
 (/home/mohamed/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librar
 ies/tikzlibraryplotmarks.code.tex
@@ -548,24 +571,24 @@ Package: amstext 2021/08/26 v2.01 AMS text
 
 (/home/mohamed/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks40
-\ex@=\dimen274
+\@emptytoks=\toks41
+\ex@=\dimen282
 ))
 (/home/mohamed/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen275
+\pmbraise@=\dimen283
 )
 (/home/mohamed/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count307
+\inf@bad=\count310
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count308
-\leftroot@=\count309
+\uproot@=\count311
+\leftroot@=\count312
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count310
-\DOTSCASE@=\count311
+\classnum@=\count313
+\DOTSCASE@=\count314
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
@@ -575,34 +598,34 @@ LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen276
+\big@size=\dimen284
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count312
+\macc@depth=\count315
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count313
+\c@MaxMatrixCols=\count316
 \dotsspace@=\muskip17
-\c@parentequation=\count314
-\dspbrk@lvl=\count315
-\tag@help=\toks41
-\row@=\count316
-\column@=\count317
-\maxfields@=\count318
-\andhelp@=\toks42
-\eqnshift@=\dimen277
-\alignsep@=\dimen278
-\tagshift@=\dimen279
-\tagwidth@=\dimen280
-\totwidth@=\dimen281
-\lineht@=\dimen282
-\@envbody=\toks43
+\c@parentequation=\count317
+\dspbrk@lvl=\count318
+\tag@help=\toks42
+\row@=\count319
+\column@=\count320
+\maxfields@=\count321
+\andhelp@=\toks43
+\eqnshift@=\dimen285
+\alignsep@=\dimen286
+\tagshift@=\dimen287
+\tagwidth@=\dimen288
+\totwidth@=\dimen289
+\lineht@=\dimen290
+\@envbody=\toks44
 \multlinegap=\skip52
 \multlinetaggap=\skip53
-\mathdisplay@stack=\toks44
+\mathdisplay@stack=\toks45
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
@@ -620,9 +643,6 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 (/home/mohamed/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
 
-(/home/mohamed/.miktex/texmfs/install/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
-)
 (/home/mohamed/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
@@ -660,18 +680,18 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (/home/mohamed/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count319
+\c@section@level=\count322
 ) (/home/mohamed/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count320
+\etb@tempcnta=\count323
 )
 (/home/mohamed/.miktex/texmfs/install/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen283
-\Hy@linkcounter=\count321
-\Hy@pagecounter=\count322
+\@linkdim=\dimen291
+\Hy@linkcounter=\count324
+\Hy@pagecounter=\count325
 
 (/home/mohamed/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
@@ -681,7 +701,7 @@ Now handling font encoding PD1 ...
 (/home/mohamed/.miktex/texmfs/install/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count323
+\Hy@SavedSpaceFactor=\count326
 
 (/home/mohamed/.miktex/texmfs/install/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
@@ -695,14 +715,14 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count324
+\c@Hy@tempcnt=\count327
 
 (/home/mohamed/.miktex/texmfs/install/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen284
+\XeTeXLinkMargin=\dimen292
 
 (/home/mohamed/.miktex/texmfs/install/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -711,9 +731,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count325
-\Field@Width=\dimen285
-\Fld@charsize=\dimen286
+\Fld@menulength=\count328
+\Field@Width=\dimen293
+\Fld@charsize=\dimen294
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -726,9 +746,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count326
-\c@Item=\count327
-\c@Hfootnote=\count328
+\Hy@abspage=\count329
+\c@Item=\count330
+\c@Hfootnote=\count331
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -740,8 +760,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count329
-\c@bookmark@seq@number=\count330
+\Fld@listcount=\count332
+\c@bookmark@seq@number=\count333
 
 (/home/mohamed/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.s
 ty
@@ -760,19 +780,19 @@ Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (/home/mohamed/.miktex/texmfs/install/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen287
-\captionmargin=\dimen288
-\caption@leftmargin=\dimen289
-\caption@rightmargin=\dimen290
-\caption@width=\dimen291
-\caption@indent=\dimen292
-\caption@parindent=\dimen293
-\caption@hangindent=\dimen294
+\caption@tempdima=\dimen295
+\captionmargin=\dimen296
+\caption@leftmargin=\dimen297
+\caption@rightmargin=\dimen298
+\caption@width=\dimen299
+\caption@indent=\dimen300
+\caption@parindent=\dimen301
+\caption@hangindent=\dimen302
 Package caption Info: Standard document class detected.
 Package caption Info: french babel package is loaded.
 )
-\c@caption@flags=\count331
-\c@continuedfloat=\count332
+\c@caption@flags=\count334
+\c@continuedfloat=\count335
 Package caption Info: hyperref package is loaded.
 )
 (/home/mohamed/.miktex/texmfs/install/tex/latex/blindtext/blindtext.sty
@@ -781,45 +801,45 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 (/home/mohamed/.miktex/texmfs/install/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count333
-\c@Blindtext=\count334
-\c@blind@countparstart=\count335
-\blind@countxx=\count336
-\blindtext@numBlindtext=\count337
-\blind@countyy=\count338
-\c@blindlist=\count339
-\c@blindlistlevel=\count340
-\c@blindlist@level=\count341
-\blind@listitem=\count342
-\c@blind@listcount=\count343
-\c@blind@levelcount=\count344
-\blind@mathformula=\count345
-\blind@Mathformula=\count346
-\c@blind@randomcount=\count347
-\c@blind@randommax=\count348
-\c@blind@pangramcount=\count349
-\c@blind@pangrammax=\count350
+\c@blindtext=\count336
+\c@Blindtext=\count337
+\c@blind@countparstart=\count338
+\blind@countxx=\count339
+\blindtext@numBlindtext=\count340
+\blind@countyy=\count341
+\c@blindlist=\count342
+\c@blindlistlevel=\count343
+\c@blindlist@level=\count344
+\blind@listitem=\count345
+\c@blind@listcount=\count346
+\c@blind@levelcount=\count347
+\blind@mathformula=\count348
+\blind@Mathformula=\count349
+\c@blind@randomcount=\count350
+\c@blind@randommax=\count351
+\c@blind@pangramcount=\count352
+\c@blind@pangrammax=\count353
 )
 (/home/mohamed/.miktex/texmfs/install/tex/latex/tools/multicol.sty
 Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
-\c@tracingmulticols=\count351
+\c@tracingmulticols=\count354
 \mult@box=\box66
-\multicol@leftmargin=\dimen295
-\c@unbalance=\count352
-\c@collectmore=\count353
-\doublecol@number=\count354
-\multicoltolerance=\count355
-\multicolpretolerance=\count356
-\full@width=\dimen296
-\page@free=\dimen297
-\premulticols=\dimen298
-\postmulticols=\dimen299
+\multicol@leftmargin=\dimen303
+\c@unbalance=\count355
+\c@collectmore=\count356
+\doublecol@number=\count357
+\multicoltolerance=\count358
+\multicolpretolerance=\count359
+\full@width=\dimen304
+\page@free=\dimen305
+\premulticols=\dimen306
+\postmulticols=\dimen307
 \multicolsep=\skip55
 \multicolbaselineskip=\skip56
 \partial@page=\box67
 \last@line=\box68
 \mc@boxedresult=\box69
-\maxbalancingoverflow=\dimen300
+\maxbalancingoverflow=\dimen308
 \mult@rightbox=\box70
 \mult@grightbox=\box71
 \mult@firstbox=\box72
@@ -860,86 +880,120 @@ Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
 \@tempa=\box107
 \@tempa=\box108
 \@tempa=\box109
-\c@minrows=\count357
-\c@columnbadness=\count358
-\c@finalcolumnbadness=\count359
-\last@try=\dimen301
-\multicolovershoot=\dimen302
-\multicolundershoot=\dimen303
+\c@minrows=\count360
+\c@columnbadness=\count361
+\c@finalcolumnbadness=\count362
+\last@try=\dimen309
+\multicolovershoot=\dimen310
+\multicolundershoot=\dimen311
 \mult@nat@firstbox=\box110
 \colbreak@box=\box111
-\mc@col@check@num=\count360
+\mc@col@check@num=\count363
 )
 (/home/mohamed/.miktex/texmfs/install/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count361
-\float@exts=\toks45
+\c@float@type=\count364
+\float@exts=\toks46
 \float@box=\box112
-\@float@everytoks=\toks46
+\@float@everytoks=\toks47
 \@floatcapt=\box113
 )
 (/home/mohamed/.miktex/texmfs/install/tex/latex/tools/array.sty
 Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
-\col@sep=\dimen304
+\col@sep=\dimen312
 \ar@mcellbox=\box114
-\extrarowheight=\dimen305
-\NC@list=\toks47
+\extrarowheight=\dimen313
+\NC@list=\toks48
 \extratabsurround=\skip57
 \backup@length=\skip58
 \ar@cellbox=\box115
 )
 (/home/mohamed/.miktex/texmfs/install/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
-\everycr=\toks48
+\everycr=\toks49
 \minrowclearance=\skip59
-\rownum=\count362
+\rownum=\count365
 )
 (/home/mohamed/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count363
+\l__color_backend_stack_int=\count366
 \l__pdf_internal_box=\box116
 ) (CUI.aux)
 \openout1 = `CUI.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Info: Redefining \degres on input line 32.
-LaTeX Info: Redefining \up on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
 
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \degres on input line 33.
+LaTeX Info: Redefining \up on input line 33.
 
 Package french.ldf Warning: OT1 encoding should not be used for French.
 (french.ldf)                Add \usepackage[T1]{fontenc} to the preamble
-(french.ldf)                of your document; reported on input line 32.
+(french.ldf)                of your document; reported on input line 33.
 
 (/home/mohamed/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count364
-\scratchdimen=\dimen306
+\scratchcounter=\count367
+\scratchdimen=\dimen314
 \scratchbox=\box117
-\nofMPsegments=\count365
-\nofMParguments=\count366
-\everyMPshowfont=\toks49
-\MPscratchCnt=\count367
-\MPscratchDim=\dimen307
-\MPnumerator=\count368
-\makeMPintoPDFobject=\count369
-\everyMPtoPDFconversion=\toks50
+\nofMPsegments=\count368
+\nofMParguments=\count369
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count370
+\MPscratchDim=\dimen315
+\MPnumerator=\count371
+\makeMPintoPDFobject=\count372
+\everyMPtoPDFconversion=\toks51
 )
 (/home/mohamed/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -952,7 +1006,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
-Package hyperref Info: Link coloring OFF on input line 32.
+Package hyperref Info: Link coloring OFF on input line 33.
 (CUI.out) (CUI.out)
 \@outlinefile=\write4
 \openout4 = `CUI.out'.
@@ -960,13 +1014,13 @@ Package hyperref Info: Link coloring OFF on input line 32.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 36.
 
 
 (/home/mohamed/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 36.
 
 
 (/home/mohamed/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
@@ -978,122 +1032,54 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {/home/mohamed/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}]
 
 [2]
-Overfull \hbox (15.96338pt too wide) in paragraph at lines 54--55
-\OT1/cmr/m/n/10.95 coastline is strongly influenced by upwelling. By analyzing 
-the relationship
- []
+
+[3] (CUI.toc)
+\tf@toc=\write5
+\openout5 = `CUI.toc'.
 
 
 
-[3] (INTRODUCTION.tex
-Underfull \hbox (badness 1009) in paragraph at lines 8--8
-[][][]\OT1/cmr/m/n/10 .[][]Masson-Delmotte, V., et al. (2018). Le changement cl
-imatique : Impacts et
- []
-
-
-Overfull \hbox (10.31816pt too wide) in paragraph at lines 11--12
-\OT1/cmr/m/n/12 remont^^See c^oti^^Rere (CUI), la North Atlantic Oscillation (N
-AO) et les changements
- []
-
-
-
-[4]
-Overfull \hbox (10.07918pt too wide) in paragraph at lines 13--14
-\OT1/cmr/m/n/12 que le Maroc pourrait conna^^^Ptre des changements dans la fr^^
-Sequence et l'intensit^^Se
- []
-
-
-Overfull \hbox (6.55838pt too wide) in paragraph at lines 13--14
-\OT1/cmr/m/n/12 des ^^Sev^^Senements d'upwelling en raison des impacts du r^^Se
-chauffement climatique.
- []
-
-
-Overfull \hbox (4.73062pt too wide) in paragraph at lines 13--14
-\OT1/cmr/m/n/12 Ces changements pourraient avoir des r^^Sepercussions sur les ^
-^Secosyst^^Remes marins
- []
-
-
-Overfull \hbox (24.67912pt too wide) in paragraph at lines 16--17
-\OT1/cmr/m/n/12 de remont^^See c^oti^^Rere (CUI), la North Atlantic Oscillation
- (NAO) et les changements
- []
-
-
-Overfull \hbox (6.74458pt too wide) in paragraph at lines 16--17
-\OT1/cmr/m/n/12 la variabilit^^Se de la NAO influence l'upwelling c^otier le lo
-ng des c^otes marocaines
- []
-
-
-Overfull \hbox (0.48476pt too wide) in paragraph at lines 29--30
-\OT1/cmr/m/n/12 de variabilit^^Se climatique dans l'h^^Semisph^^Rere Nord, en p
-articulier durant l'hiver.
- []
-
-
-Overfull \hbox (5.01111pt too wide) in paragraph at lines 29--30
-\OT1/cmr/m/n/12 pr^^Secipitations et les temp^^Seratures dans l'Atlantique Nord
-, l'Europe et l'Afrique
+[4] (INTRODUCTION.tex
+Overfull \hbox (3.23404pt too wide) in paragraph at lines 4--5
+[]\OT1/cmr/m/n/12 Le Maroc, avec ses c^otes s'^^Setendant sur plus de 3 500 kil
+om^^Retres, b^^Sen^^Seficie d'un environnement
  []
 
 
 
 [5]
-Overfull \hbox (11.51242pt too wide) in paragraph at lines 32--33
-\OT1/cmr/m/n/12 diff^^Serence de pression entre les A^^Xcores et l'Islande est 
-renforc^^See, ce qui provoque : 
+Overfull \hbox (5.42871pt too wide) in paragraph at lines 22--23
+[][]\OT1/cmr/m/n/12 Etudier la relation entre l'indice CUI et la North Atlantic
+ Oscillation (NAO), en particulier
  []
 
 
-Overfull \hbox (7.08191pt too wide) in paragraph at lines 34--35
-[]\OT1/cmr/m/n/12 des vents d'ouest plus intenses, qui d^^Sevient les syst^^Rem
-es d^^Sepressionnaires
- []
-
-
-Overfull \hbox (30.965pt too wide) in paragraph at lines 53--54
-\OT1/cmr/m/n/12 (North Atlantic Oscillation), influencent directement les condi
-tions m^^Set^^Seorologiques
+Overfull \hbox (8.52303pt too wide) in paragraph at lines 50--51
+[]\OT1/cmr/m/n/12 Le changement climatique est un ph^^Senom^^Rene global qui im
+pacte divers aspects des ^^Secosyst^^Remes
  []
 
 
 
 [6]
-Overfull \hbox (4.05093pt too wide) in paragraph at lines 59--60
-\OT1/cmr/m/n/12 c^otier est cruciale pour la gestion durable des ressources mar
-ines. Les d^^Secideurs
- []
-
-
-Overfull \hbox (8.12634pt too wide) in paragraph at lines 59--60
-\OT1/cmr/m/n/12 pr^^Sevoir et adapter les pratiques de p^eche, les politiques d
-e gestion des ressources
- []
-
-
-Overfull \hbox (43.8316pt too wide) in paragraph at lines 59--60
-\OT1/cmr/m/n/12 en eau et les strat^^Segies de conservation en fonction des cha
-ngements environnementaux
+Overfull \hbox (4.34529pt too wide) in paragraph at lines 56--57
+[]\OT1/cmr/m/n/12 Les mod^^Reles climatiques modernes incluent des variables qu
+i simulent les effets du changement
  []
 
 ) (MATERIEL_ET_METHODES.tex
-Overfull \hbox (38.47972pt too wide) in paragraph at lines 3--3
+Overfull \hbox (9.60793pt too wide) in paragraph at lines 3--3
 []\OT1/cmr/bx/n/14.4 Instruments scientifiques utilis^^Ses (logiciels, programm
-es,
+es, mod^^Reles,
  []
 
 
-Overfull \hbox (25.52061pt too wide) in paragraph at lines 4--5
-[]\OT1/cmr/m/n/12 Pour cette ^^Setude, une combinaison de logiciels et de langa
-ges de programmation
+Overfull \hbox (8.63434pt too wide) in paragraph at lines 7--8
+[]\OT1/cmr/bx/n/12 R \OT1/cmr/m/n/12 : Un environnement de programmation et un 
+logiciel statistique utilis^^Se pour le traitement
  []
 
-<R.png, id=153, 1927.2pt x 1014.79124pt>
+<R.png, id=158, 1927.2pt x 1014.79124pt>
 File: R.png Graphic file (type png)
 <use R.png>
 Package pdftex.def Info: R.png  used on input line 10.
@@ -1101,17 +1087,12 @@ Package pdftex.def Info: R.png  used on input line 10.
 
 
 [7]
-Overfull \hbox (3.78334pt too wide) in paragraph at lines 15--16
-\OT1/cmr/m/n/12 en appliquant la m^^Sethode de Bakun, en utilisant les donn^^Se
-es disponibles
- []
-
-<python.png, id=162, 1926.19624pt x 937.5025pt>
+<python.png, id=168, 1926.19624pt x 937.5025pt>
 File: python.png Graphic file (type png)
 <use python.png>
 Package pdftex.def Info: python.png  used on input line 18.
 (pdftex.def)             Requested size: 385.23242pt x 187.49718pt.
-<cdo.png, id=163, 1926.19624pt x 1016.79875pt>
+<cdo.png, id=169, 1926.19624pt x 1016.79875pt>
 File: cdo.png Graphic file (type png)
 <use cdo.png>
 Package pdftex.def Info: cdo.png  used on input line 26.
@@ -1119,9 +1100,9 @@ Package pdftex.def Info: cdo.png  used on input line 26.
 
 
 [8 <./R.png> <./python.png>]
-Overfull \hbox (31.88313pt too wide) in paragraph at lines 37--38
+Overfull \hbox (28.95709pt too wide) in paragraph at lines 37--38
 []\OT1/cmr/bx/n/12 Les donn^^Sees utilis^^Sees pour le calcul de l'indice d'upw
-elling proviennent
+elling proviennent principalement
  []
 
 
@@ -1130,34 +1111,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--38
  []
 
 
-Overfull \hbox (12.41052pt too wide) in paragraph at lines 41--42
-[]\OT1/cmr/bx/n/12 Transport d'Ekman[][][] \OT1/cmr/m/n/12 : Les composantes $\
-OML/cmm/m/it/12 T[]$ \OT1/cmr/m/n/12 (zonale) et $\OML/cmm/m/it/12 T[]$ \OT1/cm
-r/m/n/12 (m^^Seridienne)
- []
-
-
-Overfull \hbox (15.07211pt too wide) in paragraph at lines 41--42
-\OT1/cmr/m/n/12 du transport d'Ekman pour le Maroc 1950-2022, utilis^^Sees pour
- d^^Seterminer
- []
-
-
-Overfull \hbox (9.17726pt too wide) in paragraph at lines 41--42
-\OT1/cmr/m/n/12 la direction de l'upwelling le long de la c^ote. Ces donn^^Sees
- sont disponibles
- []
-
-
-Overfull \hbox (17.26514pt too wide) in paragraph at lines 42--43
-\OT1/cmr/m/n/12 1950-2022 avec une fr^^Sequence mensuelle, utilis^^Sees pour co
-mpl^^Seter l'analyse
- []
-
-
 
 [9 <./cdo.png>]
-<zone.jpg, id=191, 1245.15187pt x 709.14937pt>
+<zone.jpg, id=197, 1245.15187pt x 709.14937pt>
 File: zone.jpg Graphic file (type jpg)
 <use zone.jpg>
 Package pdftex.def Info: zone.jpg  used on input line 67.
@@ -1165,38 +1121,14 @@ Package pdftex.def Info: zone.jpg  used on input line 67.
 
 Underfull \hbox (badness 10000) in paragraph at lines 76--76
 [][][]\OT1/cmr/m/n/10 .[][][]$\OT1/cmtt/m/n/10 https : / / www . researchgate .
- net / publication / 252415117 _ Coastal _ Upwelling _
- []
-
-
-Overfull \hbox (15.86406pt too wide) in paragraph at lines 76--77
-[]\OT1/cmr/m/n/12 L'indice d'upwelling de Bakun (CUI)[][][] est calcul^^Se en u
-tilisant les composantes
+ net / publication / 252415117 _ Coastal _ Upwelling _ Indices _ West _
  []
 
 
 
 [10 <./zone.jpg>]
-Overfull \hbox (7.0472pt too wide) in paragraph at lines 89--90
-[]\OT1/cmr/m/n/12 Le facteur 10 est utilis^^Se pour normaliser les valeurs de l
-'indice, afin d'obtenir
- []
-
-
-Overfull \hbox (42.00385pt too wide) in paragraph at lines 89--90
-\OT1/cmr/m/n/12 des r^^Sesultats compatibles avec les ^^Setudes pr^^Sec^^Sedent
-es et pour simplifier l'interpr^^Setation
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 110--112
 
- []
-
-
-Overfull \hbox (0.9535pt too wide) in paragraph at lines 115--116
-[]\OT1/cmtt/m/n/12 coast[]angle \OT1/cmr/m/n/12 : Orientation de la c^ote par r
-apport au nord g^^Seographique
  []
 
 
@@ -1204,150 +1136,104 @@ Underfull \hbox (badness 10000) in paragraph at lines 118--119
 
  []
 
-
-
-[11]
-<angle.png, id=210, 614.295pt x 794.97pt>
+<angle.png, id=209, 614.295pt x 794.97pt>
 File: angle.png Graphic file (type png)
 <use angle.png>
 Package pdftex.def Info: angle.png  used on input line 131.
 (pdftex.def)             Requested size: 307.14674pt x 397.48402pt.
 
-Overfull \hbox (2.12216pt too wide) in paragraph at lines 135--137
-\OT1/cmr/m/n/12 r^^Segions, mais en moyenne, l'angle de c^ote pour la majorit^^
-Se de la c^ote atlantique
- []
 
-
-
-[12 <./angle.png>]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 139--140
 
  []
 
 
-Overfull \hbox (1.27094pt too wide) in paragraph at lines 166--167
-\OT1/cmr/m/n/12 est particuli^^Rerement utile pour surveiller les changements d
-ans les ^^Secosyst^^Remes
+
+[12 <./angle.png>]
+Overfull \hbox (19.49806pt too wide) in paragraph at lines 179--180
+[]\OT1/cmr/m/n/12 Collecte des donn^^Sees climatiques via ERDDAP (transport d'E
+kman) et ERA5 (temp^^Serature). 
  []
 
-
-Overfull \hbox (5.12228pt too wide) in paragraph at lines 166--167
-\OT1/cmr/m/n/12 marins et pour analyser les impacts du climat et des conditions
- atmosph^^Seriques
+) (res.tex
+Overfull \hbox (33.22832pt too wide) in paragraph at lines 6--7
+[]\OT1/cmr/m/n/12 Une analyse globale sur l'ensemble du territoire marocain mon
+tre que l'upwelling est principalement
  []
 
-
-
-[13]) (res.tex
-Overfull \hbox (15.56662pt too wide) in paragraph at lines 5--6
-\OT1/cmr/m/n/12 l'^^Sechelle nationale pour d^^Setecter un ^^Seventuel impact d
-es changements climatiques
- []
-
-<ncview_output.pdf, id=223, 614.295pt x 794.97pt>
+<ncview_output.pdf, id=224, 614.295pt x 794.97pt>
 File: ncview_output.pdf Graphic file (type pdf)
 <use ncview_output.pdf>
-Package pdftex.def Info: ncview_output.pdf  used on input line 9.
+Package pdftex.def Info: ncview_output.pdf  used on input line 10.
 (pdftex.def)             Requested size: 307.14674pt x 397.48402pt.
 
 
-[14]
-Overfull \hbox (17.85132pt too wide) in paragraph at lines 14--15
-\OT1/cmr/m/n/12 soulignent la n^^Secessit^^Se de comprendre les interactions en
-tre les indices climatiques
- []
-
-<kde_nao_cui.png, id=234, 1445.4pt x 722.7pt>
+[13]
+<kde_nao_cui.png, id=237, 1445.4pt x 722.7pt>
 File: kde_nao_cui.png Graphic file (type png)
 <use kde_nao_cui.png>
-Package pdftex.def Info: kde_nao_cui.png  used on input line 21.
+Package pdftex.def Info: kde_nao_cui.png  used on input line 23.
 (pdftex.def)             Requested size: 433.62335pt x 216.81166pt.
 
-Overfull \hbox (43.62335pt too wide) in paragraph at lines 21--22
- [][] 
- []
 
-
-
-[15 <./ncview_output.pdf>]
-<corr.png, id=245, 1084.05pt x 578.16pt>
+[14 <./ncview_output.pdf>]
+<corr.png, id=249, 1084.05pt x 578.16pt>
 File: corr.png Graphic file (type png)
 <use corr.png>
-Package pdftex.def Info: corr.png  used on input line 31.
+Package pdftex.def Info: corr.png  used on input line 33.
 (pdftex.def)             Requested size: 325.21751pt x 173.44933pt.
 
-Overfull \hbox (0.58292pt too wide) in paragraph at lines 36--37
-\OT1/cmr/m/n/12 CUI, avec une intensit^^Se qui varie selon la latitude. Les obs
-ervations principales
- []
 
-
-
-[16 <./kde_nao_cui.png> <./corr.png>]
-Overfull \hbox (5.36485pt too wide) in paragraph at lines 38--39
-[]\OT1/cmr/bx/n/12 Zones m^^Seridionales : \OT1/cmr/m/n/12 La corr^^Selation es
-t fortement n^^Segative, indiquant
- []
-
-
-Overfull \hbox (6.09277pt too wide) in paragraph at lines 39--40
-[]\OT1/cmr/bx/n/12 Zones septentrionales : \OT1/cmr/m/n/12 La corr^^Selation di
-minue en intensit^^Se, devenant
- []
-
-
-Overfull \hbox (2.77048pt too wide) in paragraph at lines 39--40
-\OT1/cmr/m/n/12 presque nulle. Cela refl^^Rete un moindre impact de la NAO sur 
-l'upwelling
- []
-
-<CUI_NAO_PHASES.png, id=255, 1806.75pt x 722.7pt>
+[15 <./kde_nao_cui.png> <./corr.png>]
+<CUI_NAO_PHASES.png, id=260, 1806.75pt x 722.7pt>
 File: CUI_NAO_PHASES.png Graphic file (type png)
 <use CUI_NAO_PHASES.png>
-Package pdftex.def Info: CUI_NAO_PHASES.png  used on input line 49.
+Package pdftex.def Info: CUI_NAO_PHASES.png  used on input line 51.
 (pdftex.def)             Requested size: 542.02919pt x 216.81166pt.
 
-Overfull \hbox (152.02919pt too wide) in paragraph at lines 49--50
+Overfull \hbox (58.33232pt too wide) in paragraph at lines 51--52
  [][] 
  []
 
-<POS_PHASE.png, id=256, 1084.05pt x 1084.05pt>
+<POS_PHASE.png, id=261, 1084.05pt x 1084.05pt>
 File: POS_PHASE.png Graphic file (type png)
 <use POS_PHASE.png>
-Package pdftex.def Info: POS_PHASE.png  used on input line 57.
+Package pdftex.def Info: POS_PHASE.png  used on input line 59.
 (pdftex.def)             Requested size: 325.21751pt x 325.21751pt.
 
 
-[17 <./CUI_NAO_PHASES.png>]
-<NEG_PHASE.png, id=263, 1084.05pt x 1084.05pt>
+[16 <./CUI_NAO_PHASES.png>]
+<NEG_PHASE.png, id=268, 1084.05pt x 1084.05pt>
 File: NEG_PHASE.png Graphic file (type png)
 <use NEG_PHASE.png>
-Package pdftex.def Info: NEG_PHASE.png  used on input line 72.
+Package pdftex.def Info: NEG_PHASE.png  used on input line 74.
 (pdftex.def)             Requested size: 325.21751pt x 325.21751pt.
 
 
-[18 <./POS_PHASE.png>]
-Overfull \hbox (10.27164pt too wide) in paragraph at lines 79--80
-[]\OT1/cmr/bx/n/12 Direction du vent : \OT1/cmr/m/n/12 Les vents deviennent par
-all^^Reles ^^Ra la c^ote, favorisant
- []
+[17 <./POS_PHASE.png>]
+<CUI_NAO_20.5.png, id=276, 1806.75pt x 722.7pt>
+File: CUI_NAO_20.5.png Graphic file (type png)
+<use CUI_NAO_20.5.png>
+Package pdftex.def Info: CUI_NAO_20.5.png  used on input line 91.
+(pdftex.def)             Requested size: 361.3436pt x 144.53743pt.
 
 
-Overfull \hbox (48.37408pt too wide) in paragraph at lines 79--80
-\OT1/cmr/m/n/12 un transport d'Ekman plus efficace. Cet alignement optimal est 
-particuli^^Rerement
+[18 <./NEG_PHASE.png>]
+<CUI_NAO_34.5.png, id=284, 1806.75pt x 722.7pt>
+File: CUI_NAO_34.5.png Graphic file (type png)
+<use CUI_NAO_34.5.png>
+Package pdftex.def Info: CUI_NAO_34.5.png  used on input line 98.
+(pdftex.def)             Requested size: 361.3436pt x 144.53743pt.
+
+
+[19 <./CUI_NAO_20.5.png> <./CUI_NAO_34.5.png>]
+Overfull \hbox (10.52866pt too wide) in paragraph at lines 111--112
+[]\OT1/cmr/m/n/12 Les phases de la North Atlantic Oscillation (NAO) montrent ^^
+Segalement une certaine variabilit^^Se,
  []
 
 ) (ACCRONYME.tex
-Overfull \hbox (34.23587pt too wide) in paragraph at lines 85--1
-\OT1/cmr/m/n/12 variations impactent directement les ^^Secosyst^^Remes marins e
-t les activit^^Ses ^^Seconomiques
- []
-
-
-
-[19 <./NEG_PHASE.png>]
 
 [20]
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
@@ -1369,44 +1255,40 @@ Underfull \hbox (badness 3668) in paragraph at lines 13--14
 [21]
 Underfull \hbox (badness 10000) in paragraph at lines 22--23
 []\OT1/cmr/m/n/12 NOAA. (2024). ERDDAP. []$\OT1/cmtt/m/n/12 http : / / coastwat
-ch . pfeg . noaa . gov /
+ch . pfeg . noaa . gov / erddap / griddap /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-\OT1/cmr/m/n/12 (2024). ERA5 Reanalysis. []$\OT1/cmtt/m/n/12 https : / / climat
-e . copernicus . eu /
- []
-
-
-
-[22]
-Underfull \hbox (badness 2781) in paragraph at lines 35--36
-\OT1/cmr/m/n/12 adaptation et vuln^^Serabilit^^Se. \OT1/cmr/m/it/12 Intergovern
-mental Panel on Climate
+Underfull \hbox (badness 1142) in paragraph at lines 23--24
+[]\OT1/cmr/m/n/12 European Centre for Medium-Range Weather Forecasts (ECMWF). (
+2024). ERA5
  []
 
 )
 
-[23] (CUI.lof)
-\tf@lof=\write5
-\openout5 = `CUI.lof'.
+[22] (CUI.lof)
+\tf@lof=\write6
+\openout6 = `CUI.lof'.
 
 
 
-[24] (CUI.aux)
+[23] (CUI.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `CUI.out' has not changed.
-(rerunfilecheck)             Checksum: FDD32A6C39A8E2B77D01C1E42BA4BFDB;5620.
+(rerunfilecheck)             Checksum: A3F327BEF4644B88EACEAC2EE365B784;4785.
  ) 
 Here is how much of TeX's memory you used:
- 34164 strings out of 475617
- 788446 string characters out of 5770827
- 1263266 words of memory out of 5000000
- 56379 multiletter control sequences out of 15000+600000
+ 34668 strings out of 475617
+ 796398 string characters out of 5770827
+ 1281700 words of memory out of 5000000
+ 56869 multiletter control sequences out of 15000+600000
  570112 words of font info for 82 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  99i,10n,107p,998b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1428,9 +1310,9 @@ cm/cmsy10.pfb></home/mohamed/.miktex/texmfs/install/fonts/type1/public/amsfonts
 s/cm/cmti12.pfb></home/mohamed/.miktex/texmfs/install/fonts/type1/public/amsfon
 ts/cm/cmtt10.pfb></home/mohamed/.miktex/texmfs/install/fonts/type1/public/amsfo
 nts/cm/cmtt12.pfb>
-Output written on CUI.pdf (24 pages, 3151720 bytes).
+Output written on CUI.pdf (23 pages, 4198624 bytes).
 PDF statistics:
- 427 PDF objects out of 1000 (max. 8388607)
- 101 named destinations out of 1000 (max. 500000)
- 268 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 440 PDF objects out of 1000 (max. 8388607)
+ 104 named destinations out of 1000 (max. 500000)
+ 246 words of extra memory for PDF output out of 10000 (max. 10000000)
 

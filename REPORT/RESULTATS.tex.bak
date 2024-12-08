@@ -9,8 +9,8 @@ une analyse de façon générale sur l’ensemble du pays montre que généralem
 \caption{Climatologie de l'Upwelling au Maroc  1958-2014}
 \end{figure}
 
-
-\subsubsection{Analyse des distributions}
+\subsubsection{Analyse Statistique}
+\subsubsection*{Analyse des distributions}
 
 \begin{figure}[H]
 \centering
@@ -20,7 +20,7 @@ une analyse de façon générale sur l’ensemble du pays montre que généralem
 
 "L'indice d'upwelling côtier (UI) et l'oscillation nord-atlantique (NAO) suivent tous deux une distribution normale avec des valeurs qui varient autour de 0, ce qui signifie que leurs valeurs sont symétriquement réparties autour d'une moyenne. Cela implique que les valeurs extrêmes (à la fois hautes et basses) sont moins fréquentes, et que la majorité des données se concentrent autour de cette moyenne."
 
-\subsection{Analyse de la corrélation}
+\subsection*{Analyse de la corrélation}
 \begin{figure}[H]
 \centering
 \includegraphics[scale=0.3]{corr.png}
@@ -34,27 +34,26 @@ les basses latitudes (la zone sud du Maroc), connaissent une corrélation négat
 ces résultats confirme la réalité du Maroc avec une activité de pêcherie développée dans le sud motivée par les remontées des planctons causées par l'upwelling. 
 
 \subsection{Analyse de l'Effet de NAO}
-
+\subsubsection{Analyse séparée pour Chaque Phase  de NAO }
 les résultats présents dans la figure ci-dessus confirme les résultats de la corrélation. Cette partie concerne l'analyse de l'Upwelling de façon séparée. en premier abord, analyser le CUI juste pour la phase positive de NAO, et en second abord, une analyse a concerné uniquement la phase négative de NAO.
-
+\begin{multicol}
 \begin{figure}[H]
 \centering
 \includegraphics[scale=0.3]{CUI_NAO_PHASES.png}
 \caption{Analyse de l'impact de la phase NAO sur le CUI.}
 \end{figure}
-
-le CUI au Maroc est caractérisé par une corrélation négative avec NAO, pour la phase positive de NAO on remarque que l'indice de l'upwelling côtier est inférieur au cas négatif de NAO. Ce résultat important exige une confirmation plus forte par une analyse de la climatologie du vent pour chaque phase de NAO.
-
-
-
-\subsubsection{Phase Positive de NAO (NAO+)}
-
-
+\columnbreak
 \begin{figure}[H]
 \centering
 \includegraphics[scale=0.3]{POS_PHASE.png}
 \caption{la climatologie du vent et de la pression pour la phase positive de NAO (1950-2022)}
 \end{figure}
+\end{multicol}
+le CUI au Maroc est caractérisé par une corrélation négative avec NAO, pour la phase positive de NAO on remarque que l'indice de l'upwelling côtier est inférieur au cas négatif de NAO. Ce résultat important exige une confirmation plus forte par une analyse de la climatologie du vent pour chaque phase de NAO.
+
+
+
+
 
 
 La phase positive de la NAO est associée à une intensité de vent relativement faible le long de la côte atlantique marocaine. Les caractéristiques principales observées dans cette phase sont :
@@ -86,6 +85,23 @@ La phase négative de la NAO se caractérise par des vents plus forts et mieux o
 	\item \textbf{Implication sur le CUI :} Une phase $NAO - $ stimule fortement l’upwelling, augmentant la productivité biologique et soutenant les écosystèmes marins. Ces conditions peuvent être particulièrement bénéfiques pour les activités de pêche.
 \end{itemize}
 
+\subsection{Analyse de la tendance de l'upwelling}
+l'analyse de l'indice de l'upwelling côtier par latitude montre que l'upwelling concerne surtout la zone sud. l'intensité de cet indice diminue significativement avec la latitude. pour le sud du Maroc le CUI peut atteindre jusqu'à 150 m/s.Quant au nord du pays, l'intensité ne dépasse pas généralement 70m/s.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{CUI_20.5.png}
+\caption{le CUI pour la latitude 20.5 1967-2022}
+\end{figure}
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.3]{CUI_34.5.png}
+\caption{le CUI pour la latitude 34.5 1967-2022}
+\end{figure}
+
+l'analyse combiné des séries temporelles pour NAO et CUI, montre que les deux variables suivent la même tendance
 
  
  

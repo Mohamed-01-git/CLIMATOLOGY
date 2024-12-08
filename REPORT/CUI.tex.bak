@@ -1,5 +1,6 @@
 \documentclass[a4paper,12pt]{article}
-
+\usepackage{geometry}
+\geometry{a4paper, left=2cm, right=2cm, top=2cm, bottom=2cm}
 \usepackage[utf8]{inputenc}
 \usepackage[french]{babel}
 \usepackage{pgfplots}
@@ -55,7 +56,8 @@ The Coastal Upwelling Index (CUI) is an indicator of the intensity of coastal up
 \end{abstract}
 \newpage
 
-
+\tableofcontents
+\newpage
 \input{INTRODUCTION.tex}
 \input{MATERIEL_ET_METHODES.tex}
 \input{res.tex}
